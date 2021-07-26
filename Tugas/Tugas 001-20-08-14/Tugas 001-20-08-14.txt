@@ -1,0 +1,8 @@
+Buat aplikasi untuk
+1.	Menghitung rata-rata dengan 5 inputan
+2.	Menghitung Luas dan Volume dari:
+	a.	Kerucut
+	b.	Bola
+	c.	Limas Segitiga
+	d.	Limas Segiempat
+3.	Mencari panjang sisi miring suatu segitiga.
